@@ -1,1 +1,1 @@
-A project to help students decide on their career based on their inputs and choices using an LLM-powered chatbot
+A project to help students decide on their career based on their inputs and choices using an LLM-powered chatbot. Llama is the preferred local LLM for the project.
